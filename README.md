@@ -1,1 +1,0 @@
-Securer Shell(SSH)
